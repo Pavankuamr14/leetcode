@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pavankuamr14/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pavankuamr14/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -142,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pavankuamr14/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Prefix Sum
 |  |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Pavankuamr14/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
