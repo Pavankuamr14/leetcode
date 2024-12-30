@@ -152,6 +152,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Pavankuamr14/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pavankuamr14/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pavankuamr14/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Pavankuamr14/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Prefix Sum
 |  |
 | ------- |
