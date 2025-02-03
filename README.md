@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
 | [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pavankuamr14/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pavankuamr14/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -91,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pavankuamr14/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -121,6 +123,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pavankuamr14/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pavankuamr14/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -130,6 +133,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pavankuamr14/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Pavankuamr14/leetcode/tree/master/1524-string-matching-in-an-array) |
