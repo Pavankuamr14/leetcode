@@ -273,4 +273,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pavankuamr14/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Pavankuamr14/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
