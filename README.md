@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pavankuamr14/leetcode/tree/master/0136-single-number) |
 | [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pavankuamr14/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -257,10 +258,12 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pavankuamr14/leetcode/tree/master/0136-single-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pavankuamr14/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Pavankuamr14/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
