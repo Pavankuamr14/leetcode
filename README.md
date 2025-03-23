@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pavankuamr14/leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Pavankuamr14/leetcode/tree/master/0204-count-primes) |
 | [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pavankuamr14/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pavankuamr14/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -220,6 +221,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Pavankuamr14/leetcode/tree/master/0204-count-primes) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pavankuamr14/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -286,4 +288,12 @@
 | [0620-not-boring-movies](https://github.com/Pavankuamr14/leetcode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/Pavankuamr14/leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Pavankuamr14/leetcode/tree/master/1827-invalid-tweets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pavankuamr14/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pavankuamr14/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
