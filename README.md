@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pavankuamr14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pavankuamr14/leetcode/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pavankuamr14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Pavankuamr14/leetcode/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pavankuamr14/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
