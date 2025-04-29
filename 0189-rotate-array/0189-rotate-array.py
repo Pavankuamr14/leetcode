@@ -3,15 +3,9 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        length = len(nums)
-        k = k % length  # To handle cases where k > length of the list
-        for i in range(k):
-            nums.insert(0, nums.pop())
-        # length=len(nums)-1
-        # for i in range(k):
-        #     nums.insert(0,nums[length])
-        # if k==0:
-        #     return nums
-        # del nums[-k:]
-        
-        # return nums
+        n = len(nums)
+        k = k%n
+        nums[:]=nums[::-1]
+        nums[:k]=nums[:k][::-1]
+        nums[k:]=nums[k:][::-1]
+        return nums
