@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavankuamr14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Pavankuamr14/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pavankuamr14/leetcode/tree/master/0136-single-number) |
@@ -75,6 +76,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pavankuamr14/leetcode/tree/master/0048-rotate-image) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Pavankuamr14/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pavankuamr14/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
@@ -225,6 +227,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pavankuamr14/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pavankuamr14/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pavankuamr14/leetcode/tree/master/0204-count-primes) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pavankuamr14/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
