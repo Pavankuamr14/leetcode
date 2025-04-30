@@ -17,6 +17,7 @@
 | [0048-rotate-image](https://github.com/Pavankuamr14/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavankuamr14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pavankuamr14/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Pavankuamr14/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pavankuamr14/leetcode/tree/master/0204-count-primes) |
@@ -184,6 +185,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavankuamr14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pavankuamr14/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Pavankuamr14/leetcode/tree/master/1025-minimum-cost-for-tickets) |
