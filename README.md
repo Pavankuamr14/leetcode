@@ -19,6 +19,7 @@
 | [0078-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavankuamr14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pavankuamr14/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pavankuamr14/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pavankuamr14/leetcode/tree/master/0204-count-primes) |
 | [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pavankuamr14/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pavankuamr14/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pavankuamr14/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -212,6 +215,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pavankuamr14/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Pavankuamr14/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Pavankuamr14/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -312,4 +316,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Pavankuamr14/leetcode/tree/master/0062-unique-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
