@@ -16,6 +16,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavankuamr14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Pavankuamr14/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Pavankuamr14/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavankuamr14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pavankuamr14/leetcode/tree/master/0136-single-number) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Pavankuamr14/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pavankuamr14/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
