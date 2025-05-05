@@ -24,6 +24,7 @@
 | [0189-rotate-array](https://github.com/Pavankuamr14/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pavankuamr14/leetcode/tree/master/0204-count-primes) |
 | [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Pavankuamr14/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pavankuamr14/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pavankuamr14/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0952-word-subsets) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Pavankuamr14/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pavankuamr14/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -202,6 +204,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pavankuamr14/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Pavankuamr14/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pavankuamr14/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pavankuamr14/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
