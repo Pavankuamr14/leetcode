@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pavankuamr14/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavankuamr14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Pavankuamr14/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
@@ -117,6 +118,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pavankuamr14/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavankuamr14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Pavankuamr14/leetcode/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -138,6 +140,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pavankuamr14/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Pavankuamr14/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pavankuamr14/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
