@@ -21,6 +21,7 @@
 | [0078-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavankuamr14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pavankuamr14/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Pavankuamr14/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pavankuamr14/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pavankuamr14/leetcode/tree/master/0204-count-primes) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Pavankuamr14/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavankuamr14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Pavankuamr14/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pavankuamr14/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Pavankuamr14/leetcode/tree/master/1025-minimum-cost-for-tickets) |
