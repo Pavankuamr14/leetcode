@@ -34,6 +34,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Pavankuamr14/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pavankuamr14/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pavankuamr14/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0907-koko-eating-bananas](https://github.com/Pavankuamr14/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Pavankuamr14/leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Pavankuamr14/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Pavankuamr14/leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -140,6 +141,7 @@
 | [0035-search-insert-position](https://github.com/Pavankuamr14/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pavankuamr14/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavankuamr14/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/Pavankuamr14/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Pavankuamr14/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pavankuamr14/leetcode/tree/master/2164-two-best-non-overlapping-events) |
