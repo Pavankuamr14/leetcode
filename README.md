@@ -49,6 +49,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Pavankuamr14/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pavankuamr14/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pavankuamr14/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2047-find-a-peak-element-ii](https://github.com/Pavankuamr14/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pavankuamr14/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Pavankuamr14/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pavankuamr14/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Pavankuamr14/leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pavankuamr14/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Pavankuamr14/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Pavankuamr14/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pavankuamr14/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
@@ -153,6 +155,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pavankuamr14/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pavankuamr14/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Pavankuamr14/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2047-find-a-peak-element-ii](https://github.com/Pavankuamr14/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pavankuamr14/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Pavankuamr14/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Pavankuamr14/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
