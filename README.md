@@ -30,6 +30,7 @@
 | [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pavankuamr14/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pavankuamr14/leetcode/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pavankuamr14/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0494-target-sum](https://github.com/Pavankuamr14/leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavankuamr14/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pavankuamr14/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pavankuamr14/leetcode/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pavankuamr14/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Pavankuamr14/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pavankuamr14/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
@@ -144,6 +146,7 @@
 | [0035-search-insert-position](https://github.com/Pavankuamr14/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pavankuamr14/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavankuamr14/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pavankuamr14/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0907-koko-eating-bananas](https://github.com/Pavankuamr14/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pavankuamr14/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavankuamr14/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -348,4 +351,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pavankuamr14/leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pavankuamr14/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
