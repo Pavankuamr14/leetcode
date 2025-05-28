@@ -1,25 +1,21 @@
-import math
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        kMax = max(piles)
+        MaxValue = max(piles)
+        def mainLogic(piles,k,h):
+            currHours = 0
+            for i in range(len(piles)):
+                currHours += ceil(piles[i]/k)
+            return currHours
         low = 1
-        high = kMax
-        result = high
+        high = MaxValue
+        answer = high
         while low<=high:
-            mid = (low+high)//2
-            ans = self.result(piles,mid)
-            if ans<=h:
-                result = mid
-                high = mid-1
+            mid = (low + high)//2
+            currHours = mainLogic(piles,mid,h)
+            if currHours <= h:
+                answer = mid
+                high = mid - 1
             else:
-                low = mid+1
-        return result
-    def result(self,array,i):
-        total = 0
-        for j in range(len(array)):
-            val = math.ceil(array[j]/i)
-            total+=val
-        return total
-        
-
-        
+                low = mid + 1
+        return answer
+            
